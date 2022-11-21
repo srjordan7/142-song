@@ -1,13 +1,3 @@
-// Sierra Jordan
-   // 4/4/2022
-    // CSE 142
-    // TA: Andrew Kuhn
-    // Take-Home Assessment 1
-    //
-    // This program will produce the lyrics of the song
-    // "There was an old woman who swallowed a fly".
-    
-    
 public class Song {
 
    // main prints the song 
